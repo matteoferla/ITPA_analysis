@@ -20,3 +20,7 @@ of [rdkit_to_params](https://pypi.org/project/rdkit-to-params/) and the SMILES `
 * mutating the residue
 * FastRelax x5 10Å neighbourhood
 
+## Bfactors
+
+Bfactors are conservation scores from [Consurf](https://consurf.tau.ac.il/)
+
