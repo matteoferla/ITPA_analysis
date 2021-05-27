@@ -3,7 +3,7 @@ Analysis of variants of ITPA. No details of pathogenic variants are help here �
 
 ## Model
 
-PDB:2J4E is ligand bound (ITP), but has a lower resolution than PDB:2CAR.
+PDB:2J4E is ligand bound (ITP), but has a lower resolution than PDB:2CAR (2.80 Å vs. 1.09 Å).
 The two missing loops were added from the latter into the former.
 The model was energy minimised in Pyrosetta ([scripts/relax.py](scripts/relax.py)) using 18 FastRelax cycles 
 constrained to the electron density of PDB:2J4E.
